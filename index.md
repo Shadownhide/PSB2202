@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# 我的A LEVEL 生活 2019
 
-You can use the [editor on GitHub](https://github.com/Shadownhide/PSB2202/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+从2018的5月14号开始，我就展开了在Tunku Abdul Rahman University College (TARUC)的生活。在的A level 的生活我与来自全马各州的同学一起上课， 而在我的班级几乎所有人都是以书为食的学霸，在高考考获了卓越的成绩。过来段时间，我与几位有着不错性格的同学成为了朋友，在这个我们的班，我们显得格格不入，因我们这群的成绩与其他人有些差距。同时，我的运动也随着时间的流逝，从篮球变成了健身，再变成泰拳。因以前常被欺负，我对泰拳产生了非常大的兴趣，所以在A level 的后半生活都是围绕着泰拳与读书。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##我的朋友很好
+在写这篇文章时，我已经是个大学生了，回想起在A level的生活我发现了我的朋友真的很好也很坏。在 A level时，我经常像个小学生一样耍脾气，但他们都还把当朋友，超感谢他们的。
+让我举几件事情：
+1. 当我们在讨论人类的数量过多时该怎么的话题时，我以蛮横的方式拒绝他们的意见，并把自己的意见加在他们身上，而他们却只是以无奈的表情，结束了话题，真的太把自己当回事了我，现在的我想想也无语了。
+2. 我常常因为他们不理解我，或只是有点冒犯到我，或是人不在状态，就以不与他们说话，耍脾气来想要他们理解自己，不试着与沟通来解决问题，太自以为是了我。。。
+真的很抱歉，还有谢谢你们，我的朋友们。
 
-### Markdown
+##我的朋友很坏也很好
+我的朋友在我有事情时，我需要帮助时，他们常常会帮我，而有时却会损我，作弄我，干，真的谢谢你们捏~
+举几件事情：
+1. 有次因为吃东西没注意卫生造成了喉咙细菌感染了，声音也几乎发不出，他们却陪我去医院看病，当时虽然故作坚强，但其实整个人已经痛到快要流泪了，HAHA, 真的很超感谢他们的。
+2. 每次想要找人说说话吃饭时，都会找他们出来，虽然他们应该会觉得很不耐烦吧，但谢谢你们抽时间出来。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##我对朋友的态度
+现在想想我对他们的态度真的蛮差的。我的朋友，真的很抱歉，当时我的态度这么差。
+举例：
+1. 如上面说的，我常在心情不好时，以耍脾气的方式，无视掉他们。
+2. 常在做事情没把他们放进去考虑，只考虑自己，想法很自私。像是有时他们问我问题时，我以敷衍的方式糊弄过去，只为了专注自己的事情。
 
-```markdown
-Syntax highlighted code block
+下面我与朋友的合照 和 我的班级照
 
-# Header 1
-## Header 2
-### Header 3
+##与朋友的合照
+![IMG-20191106-WA0049](https://user-images.githubusercontent.com/106055800/170278243-99bfb663-d196-4b09-b349-4ec519d76a7f.jpg)
 
-- Bulleted
-- List
+班级照
+![IMG-20191106-WA0038](https://user-images.githubusercontent.com/106055800/170278562-72681d7e-c951-4ba8-b1a7-10a07f12cf44.jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shadownhide/PSB2202/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
